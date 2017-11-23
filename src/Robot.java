@@ -12,6 +12,7 @@ public class Robot {
 		head.calc();
 		hand.catchSomething();
 		leg.go();
+		//simpla change
 	}
 
 }
